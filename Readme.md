@@ -5,4 +5,4 @@ I used Rhino libray in this project.
 
 * You can implement Rhino like that:
 
-* implementation 'com.faendir.rhino:rhino-android:1.5.2'
+implementation 'com.faendir.rhino:rhino-android:1.5.2'
